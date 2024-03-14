@@ -1,0 +1,36 @@
+body {
+    background: lightblue url("img_tree.gif") no-repeat fixed center;
+    
+  }
+.add{
+    border-radius: 4px;
+}
+.add {
+    transition-duration: 0.4s;
+  }
+  
+.add:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+  }
+.mark{
+    width: 25%;
+
+}
+.description{
+    width: 25%;
+
+}
+.img{
+    width: 25%;
+    
+}
+.price{
+    width: 25%;
+    
+
+
+}
+.tittle{
+    text-align: center;
+}
